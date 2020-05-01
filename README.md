@@ -1,3 +1,9 @@
+https://stackoverflow.com/questions/53914013/failed-to-compile-module-not-found-cant-resolve-react-router-dom
+
+# make sure you install react-router-dom using npm install -S react-router-dom or yarn add react-router-dom
+
+
+
 # React Express Example
 
 This project offers a simple example of how to set up a React project with Create React App and how to connect this app with an Express backend. React-Router is also used for routing.
